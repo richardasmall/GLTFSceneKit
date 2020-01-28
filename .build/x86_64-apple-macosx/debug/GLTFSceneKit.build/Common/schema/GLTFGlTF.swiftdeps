@@ -1,0 +1,383 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "GLTFGlTF"
+provides-nominal:
+- "12GLTFSceneKit8GLTFGlTFV"
+provides-member:
+- ["12GLTFSceneKit8GLTFGlTFV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "=="
+- "CodingKey"
+- !private "FloatLiteralType"
+- "GLTFAccessor"
+- "GLTFAnimation"
+- "GLTFAsset"
+- "GLTFBuffer"
+- "GLTFBufferView"
+- "GLTFCamera"
+- "GLTFExtension"
+- "GLTFExtras"
+- "GLTFGlTF"
+- "GLTFGlTFid"
+- "GLTFImage"
+- "GLTFMaterial"
+- "GLTFMesh"
+- "GLTFNode"
+- "GLTFPropertyProtocol"
+- "GLTFSampler"
+- "GLTFScene"
+- "GLTFSkin"
+- "GLTFTexture"
+- !private "IntegerLiteralType"
+- "String"
+- "StringLiteralType"
+- !private "_findStringSwitchCase"
+- !private "~="
+depends-member:
+- ["s9CodingKeyP", "=="]
+- ["s9CodingKeyP", "RawValue"]
+- !private ["s9CodingKeyP", ""]
+- ["s9CodingKeyP", "_Default_RawValue"]
+- !private ["s9CodingKeyP", "_findStringSwitchCase"]
+- ["s9CodingKeyP", "_rawHashValue"]
+- ["s9CodingKeyP", "debugDescription"]
+- ["s9CodingKeyP", "description"]
+- ["s9CodingKeyP", "hash"]
+- ["s9CodingKeyP", "hashValue"]
+- ["s9CodingKeyP", "init"]
+- ["s9CodingKeyP", "intValue"]
+- ["s9CodingKeyP", "rawValue"]
+- ["s9CodingKeyP", "stringValue"]
+- ["s28CustomDebugStringConvertibleP", "=="]
+- ["s28CustomDebugStringConvertibleP", "RawValue"]
+- !private ["s28CustomDebugStringConvertibleP", ""]
+- ["s28CustomDebugStringConvertibleP", "_Default_RawValue"]
+- !private ["s28CustomDebugStringConvertibleP", "_findStringSwitchCase"]
+- ["s28CustomDebugStringConvertibleP", "_rawHashValue"]
+- ["s28CustomDebugStringConvertibleP", "debugDescription"]
+- ["s28CustomDebugStringConvertibleP", "description"]
+- ["s28CustomDebugStringConvertibleP", "hash"]
+- ["s28CustomDebugStringConvertibleP", "hashValue"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "intValue"]
+- ["s28CustomDebugStringConvertibleP", "rawValue"]
+- ["s28CustomDebugStringConvertibleP", "stringValue"]
+- ["s23CustomStringConvertibleP", "=="]
+- ["s23CustomStringConvertibleP", "RawValue"]
+- !private ["s23CustomStringConvertibleP", ""]
+- ["s23CustomStringConvertibleP", "_Default_RawValue"]
+- !private ["s23CustomStringConvertibleP", "_findStringSwitchCase"]
+- ["s23CustomStringConvertibleP", "_rawHashValue"]
+- ["s23CustomStringConvertibleP", "debugDescription"]
+- ["s23CustomStringConvertibleP", "description"]
+- ["s23CustomStringConvertibleP", "hash"]
+- ["s23CustomStringConvertibleP", "hashValue"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "intValue"]
+- ["s23CustomStringConvertibleP", "rawValue"]
+- ["s23CustomStringConvertibleP", "stringValue"]
+- ["Se", ""]
+- !private ["Se", "_findStringSwitchCase"]
+- !private ["Se", "accessors"]
+- !private ["Se", "animations"]
+- !private ["Se", "asset"]
+- !private ["Se", "bufferViews"]
+- !private ["Se", "buffers"]
+- !private ["Se", "cameras"]
+- ["Se", "didLoad"]
+- ["Se", "encode"]
+- ["Se", "extensions"]
+- !private ["Se", "extensionsRequired"]
+- !private ["Se", "extensionsUsed"]
+- ["Se", "extras"]
+- !private ["Se", "images"]
+- ["Se", "init"]
+- !private ["Se", "materials"]
+- !private ["Se", "meshes"]
+- !private ["Se", "nodes"]
+- !private ["Se", "samplers"]
+- !private ["Se", "scene"]
+- !private ["Se", "scenes"]
+- !private ["Se", "skins"]
+- !private ["Se", "textures"]
+- !private ["s7DecoderP", "container"]
+- ["SE", ""]
+- !private ["SE", "_findStringSwitchCase"]
+- !private ["SE", "accessors"]
+- !private ["SE", "animations"]
+- !private ["SE", "asset"]
+- !private ["SE", "bufferViews"]
+- !private ["SE", "buffers"]
+- !private ["SE", "cameras"]
+- ["SE", "didLoad"]
+- ["SE", "encode"]
+- ["SE", "extensions"]
+- !private ["SE", "extensionsRequired"]
+- !private ["SE", "extensionsUsed"]
+- ["SE", "extras"]
+- !private ["SE", "images"]
+- ["SE", "init"]
+- !private ["SE", "materials"]
+- !private ["SE", "meshes"]
+- !private ["SE", "nodes"]
+- !private ["SE", "samplers"]
+- !private ["SE", "scene"]
+- !private ["SE", "scenes"]
+- !private ["SE", "skins"]
+- !private ["SE", "textures"]
+- !private ["s7EncoderP", "container"]
+- ["SQ", "=="]
+- ["SQ", "RawValue"]
+- !private ["SQ", ""]
+- ["SQ", "_Default_RawValue"]
+- !private ["SQ", "_findStringSwitchCase"]
+- ["SQ", "_rawHashValue"]
+- ["SQ", "debugDescription"]
+- ["SQ", "description"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- ["SQ", "init"]
+- ["SQ", "intValue"]
+- ["SQ", "rawValue"]
+- ["SQ", "stringValue"]
+- ["12GLTFSceneKit12GLTFAccessorV", "deinit"]
+- ["12GLTFSceneKit13GLTFAnimationV", "deinit"]
+- ["12GLTFSceneKit9GLTFAssetV", "deinit"]
+- ["12GLTFSceneKit10GLTFBufferV", "deinit"]
+- ["12GLTFSceneKit14GLTFBufferViewV", "deinit"]
+- ["12GLTFSceneKit10GLTFCameraV", "deinit"]
+- ["12GLTFSceneKit11GLTFCodableP", ""]
+- !private ["12GLTFSceneKit11GLTFCodableP", "_findStringSwitchCase"]
+- !private ["12GLTFSceneKit11GLTFCodableP", "accessors"]
+- !private ["12GLTFSceneKit11GLTFCodableP", "animations"]
+- !private ["12GLTFSceneKit11GLTFCodableP", "asset"]
+- !private ["12GLTFSceneKit11GLTFCodableP", "bufferViews"]
+- !private ["12GLTFSceneKit11GLTFCodableP", "buffers"]
+- !private ["12GLTFSceneKit11GLTFCodableP", "cameras"]
+- ["12GLTFSceneKit11GLTFCodableP", "didLoad"]
+- ["12GLTFSceneKit11GLTFCodableP", "encode"]
+- ["12GLTFSceneKit11GLTFCodableP", "extensions"]
+- !private ["12GLTFSceneKit11GLTFCodableP", "extensionsRequired"]
+- !private ["12GLTFSceneKit11GLTFCodableP", "extensionsUsed"]
+- ["12GLTFSceneKit11GLTFCodableP", "extras"]
+- !private ["12GLTFSceneKit11GLTFCodableP", "images"]
+- ["12GLTFSceneKit11GLTFCodableP", "init"]
+- !private ["12GLTFSceneKit11GLTFCodableP", "materials"]
+- !private ["12GLTFSceneKit11GLTFCodableP", "meshes"]
+- !private ["12GLTFSceneKit11GLTFCodableP", "nodes"]
+- !private ["12GLTFSceneKit11GLTFCodableP", "samplers"]
+- !private ["12GLTFSceneKit11GLTFCodableP", "scene"]
+- !private ["12GLTFSceneKit11GLTFCodableP", "scenes"]
+- !private ["12GLTFSceneKit11GLTFCodableP", "skins"]
+- !private ["12GLTFSceneKit11GLTFCodableP", "textures"]
+- ["12GLTFSceneKit13GLTFExtensionV", "deinit"]
+- ["12GLTFSceneKit10GLTFExtrasV", "deinit"]
+- ["12GLTFSceneKit8GLTFGlTFV", "CodingKey"]
+- !private ["12GLTFSceneKit8GLTFGlTFV", "CodingKeys"]
+- ["12GLTFSceneKit8GLTFGlTFV", "GLTFAccessor"]
+- ["12GLTFSceneKit8GLTFGlTFV", "GLTFAnimation"]
+- ["12GLTFSceneKit8GLTFGlTFV", "GLTFAsset"]
+- ["12GLTFSceneKit8GLTFGlTFV", "GLTFBuffer"]
+- ["12GLTFSceneKit8GLTFGlTFV", "GLTFBufferView"]
+- ["12GLTFSceneKit8GLTFGlTFV", "GLTFCamera"]
+- ["12GLTFSceneKit8GLTFGlTFV", "GLTFExtension"]
+- ["12GLTFSceneKit8GLTFGlTFV", "GLTFExtras"]
+- ["12GLTFSceneKit8GLTFGlTFV", "GLTFGlTFid"]
+- ["12GLTFSceneKit8GLTFGlTFV", "GLTFImage"]
+- ["12GLTFSceneKit8GLTFGlTFV", "GLTFMaterial"]
+- ["12GLTFSceneKit8GLTFGlTFV", "GLTFMesh"]
+- ["12GLTFSceneKit8GLTFGlTFV", "GLTFNode"]
+- ["12GLTFSceneKit8GLTFGlTFV", "GLTFSampler"]
+- ["12GLTFSceneKit8GLTFGlTFV", "GLTFScene"]
+- ["12GLTFSceneKit8GLTFGlTFV", "GLTFSkin"]
+- ["12GLTFSceneKit8GLTFGlTFV", "GLTFTexture"]
+- ["12GLTFSceneKit8GLTFGlTFV", "String"]
+- !private ["12GLTFSceneKit8GLTFGlTFV", "_findStringSwitchCase"]
+- ["12GLTFSceneKit8GLTFGlTFV", "accessors"]
+- ["12GLTFSceneKit8GLTFGlTFV", "animations"]
+- ["12GLTFSceneKit8GLTFGlTFV", "asset"]
+- ["12GLTFSceneKit8GLTFGlTFV", "bufferViews"]
+- ["12GLTFSceneKit8GLTFGlTFV", "buffers"]
+- ["12GLTFSceneKit8GLTFGlTFV", "cameras"]
+- ["12GLTFSceneKit8GLTFGlTFV", "deinit"]
+- ["12GLTFSceneKit8GLTFGlTFV", "didLoad"]
+- ["12GLTFSceneKit8GLTFGlTFV", "encode"]
+- ["12GLTFSceneKit8GLTFGlTFV", "extensions"]
+- ["12GLTFSceneKit8GLTFGlTFV", "extensionsRequired"]
+- ["12GLTFSceneKit8GLTFGlTFV", "extensionsUsed"]
+- ["12GLTFSceneKit8GLTFGlTFV", "extras"]
+- ["12GLTFSceneKit8GLTFGlTFV", "images"]
+- ["12GLTFSceneKit8GLTFGlTFV", "init"]
+- ["12GLTFSceneKit8GLTFGlTFV", "materials"]
+- ["12GLTFSceneKit8GLTFGlTFV", "meshes"]
+- ["12GLTFSceneKit8GLTFGlTFV", "nodes"]
+- ["12GLTFSceneKit8GLTFGlTFV", "samplers"]
+- ["12GLTFSceneKit8GLTFGlTFV", "scene"]
+- ["12GLTFSceneKit8GLTFGlTFV", "scenes"]
+- ["12GLTFSceneKit8GLTFGlTFV", "skins"]
+- ["12GLTFSceneKit8GLTFGlTFV", "textures"]
+- ["12GLTFSceneKit9GLTFImageV", "deinit"]
+- ["12GLTFSceneKit12GLTFMaterialV", "deinit"]
+- ["12GLTFSceneKit8GLTFMeshV", "deinit"]
+- ["12GLTFSceneKit8GLTFNodeV", "deinit"]
+- ["12GLTFSceneKit20GLTFPropertyProtocolP", ""]
+- !private ["12GLTFSceneKit20GLTFPropertyProtocolP", "_findStringSwitchCase"]
+- !private ["12GLTFSceneKit20GLTFPropertyProtocolP", "accessors"]
+- !private ["12GLTFSceneKit20GLTFPropertyProtocolP", "animations"]
+- !private ["12GLTFSceneKit20GLTFPropertyProtocolP", "asset"]
+- !private ["12GLTFSceneKit20GLTFPropertyProtocolP", "bufferViews"]
+- !private ["12GLTFSceneKit20GLTFPropertyProtocolP", "buffers"]
+- !private ["12GLTFSceneKit20GLTFPropertyProtocolP", "cameras"]
+- ["12GLTFSceneKit20GLTFPropertyProtocolP", "didLoad"]
+- ["12GLTFSceneKit20GLTFPropertyProtocolP", "encode"]
+- ["12GLTFSceneKit20GLTFPropertyProtocolP", "extensions"]
+- !private ["12GLTFSceneKit20GLTFPropertyProtocolP", "extensionsRequired"]
+- !private ["12GLTFSceneKit20GLTFPropertyProtocolP", "extensionsUsed"]
+- ["12GLTFSceneKit20GLTFPropertyProtocolP", "extras"]
+- !private ["12GLTFSceneKit20GLTFPropertyProtocolP", "images"]
+- ["12GLTFSceneKit20GLTFPropertyProtocolP", "init"]
+- !private ["12GLTFSceneKit20GLTFPropertyProtocolP", "materials"]
+- !private ["12GLTFSceneKit20GLTFPropertyProtocolP", "meshes"]
+- !private ["12GLTFSceneKit20GLTFPropertyProtocolP", "nodes"]
+- !private ["12GLTFSceneKit20GLTFPropertyProtocolP", "samplers"]
+- !private ["12GLTFSceneKit20GLTFPropertyProtocolP", "scene"]
+- !private ["12GLTFSceneKit20GLTFPropertyProtocolP", "scenes"]
+- !private ["12GLTFSceneKit20GLTFPropertyProtocolP", "skins"]
+- !private ["12GLTFSceneKit20GLTFPropertyProtocolP", "textures"]
+- ["12GLTFSceneKit11GLTFSamplerV", "deinit"]
+- ["12GLTFSceneKit0A0V", "deinit"]
+- ["12GLTFSceneKit8GLTFSkinV", "deinit"]
+- ["12GLTFSceneKit11GLTFTextureV", "deinit"]
+- ["SH", "=="]
+- ["SH", "RawValue"]
+- !private ["SH", ""]
+- ["SH", "_Default_RawValue"]
+- !private ["SH", "_findStringSwitchCase"]
+- ["SH", "_rawHashValue"]
+- ["SH", "debugDescription"]
+- ["SH", "description"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- ["SH", "init"]
+- ["SH", "intValue"]
+- ["SH", "rawValue"]
+- ["SH", "stringValue"]
+- !private ["s22KeyedDecodingContainerV", "decode"]
+- !private ["s22KeyedDecodingContainerV", "decodeIfPresent"]
+- !private ["s30KeyedDecodingContainerProtocolP", "decode"]
+- !private ["s30KeyedDecodingContainerProtocolP", "decodeIfPresent"]
+- !private ["s22KeyedEncodingContainerV", "encode"]
+- !private ["s22KeyedEncodingContainerV", "encodeIfPresent"]
+- !private ["s30KeyedEncodingContainerProtocolP", "encode"]
+- !private ["s30KeyedEncodingContainerProtocolP", "encodeIfPresent"]
+- ["SY", "=="]
+- ["SY", "RawValue"]
+- !private ["SY", ""]
+- ["SY", "_Default_RawValue"]
+- !private ["SY", "_findStringSwitchCase"]
+- ["SY", "_rawHashValue"]
+- ["SY", "debugDescription"]
+- ["SY", "description"]
+- ["SY", "hash"]
+- ["SY", "hashValue"]
+- ["SY", "init"]
+- ["SY", "intValue"]
+- ["SY", "rawValue"]
+- ["SY", "stringValue"]
+depends-nominal:
+- "s9CodingKeyP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "Se"
+- !private "s7DecoderP"
+- "SE"
+- !private "s7EncoderP"
+- "SQ"
+- "12GLTFSceneKit12GLTFAccessorV"
+- "12GLTFSceneKit13GLTFAnimationV"
+- "12GLTFSceneKit9GLTFAssetV"
+- "12GLTFSceneKit10GLTFBufferV"
+- "12GLTFSceneKit14GLTFBufferViewV"
+- "12GLTFSceneKit10GLTFCameraV"
+- "12GLTFSceneKit11GLTFCodableP"
+- "12GLTFSceneKit13GLTFExtensionV"
+- "12GLTFSceneKit10GLTFExtrasV"
+- "12GLTFSceneKit8GLTFGlTFV"
+- "12GLTFSceneKit9GLTFImageV"
+- "12GLTFSceneKit12GLTFMaterialV"
+- "12GLTFSceneKit8GLTFMeshV"
+- "12GLTFSceneKit8GLTFNodeV"
+- "12GLTFSceneKit20GLTFPropertyProtocolP"
+- "12GLTFSceneKit11GLTFSamplerV"
+- "12GLTFSceneKit0A0V"
+- "12GLTFSceneKit8GLTFSkinV"
+- "12GLTFSceneKit11GLTFTextureV"
+- "SH"
+- !private "s22KeyedDecodingContainerV"
+- !private "s30KeyedDecodingContainerProtocolP"
+- !private "s22KeyedEncodingContainerV"
+- !private "s30KeyedEncodingContainerProtocolP"
+- "SY"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/XPC.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/ObjectiveC.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/ModelIO.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/CoreData.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/simd.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/CoreImage.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/QuartzCore.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/Dispatch.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/Metal.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/Darwin.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/Foundation.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/CoreFoundation.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/CoreGraphics.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/Swift.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/GLKit.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/IOKit.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/SceneKit.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/SpriteKit.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/AppKit.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/SwiftOnoneSupport.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Combine.framework/Modules/Combine.swiftmodule/x86_64-apple-macos.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/XPC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/ModelIO.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreData.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/simd.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreImage.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/QuartzCore.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Metal.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Swift.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/GLKit.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/IOKit.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/SceneKit.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/SpriteKit.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/AppKit.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/xpc/XPC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/ModelIO.framework/Headers/ModelIO.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/ApplicationServices.framework/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/GLKit.framework/Headers/GLKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/SceneKit.framework/Headers/SceneKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/SpriteKit.framework/Headers/SpriteKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "55e2868bdd0e0f9966412ba55018ea79"

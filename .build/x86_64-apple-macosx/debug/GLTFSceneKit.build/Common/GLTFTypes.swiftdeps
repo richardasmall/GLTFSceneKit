@@ -1,0 +1,400 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "attributeMap"
+- "GLTF_BYTE"
+- "GLTF_UNSIGNED_BYTE"
+- "GLTF_SHORT"
+- "GLTF_UNSIGNED_SHORT"
+- "GLTF_UNSIGNED_INT"
+- "GLTF_FLOAT"
+- "GLTF_ARRAY_BUFFER"
+- "GLTF_ELEMENT_ARRAY_BUFFER"
+- "GLTF_POINTS"
+- "GLTF_LINES"
+- "GLTF_LINE_LOOP"
+- "GLTF_LINE_STRIP"
+- "GLTF_TRIANGLES"
+- "GLTF_TRIANGLE_STRIP"
+- "GLTF_TRIANGLE_FAN"
+- "GLTF_NEAREST"
+- "GLTF_LINEAR"
+- "GLTF_NEAREST_MIPMAP_NEAREST"
+- "GLTF_LINEAR_MIPMAP_NEAREST"
+- "GLTF_NEAREST_MIPMAP_LINEAR"
+- "GLTF_LINEAR_MIPMAP_LINEAR"
+- "GLTF_CLAMP_TO_EDGE"
+- "GLTF_MIRRORED_REPEAT"
+- "GLTF_REPEAT"
+- "usesFloatComponentsMap"
+- "bytesPerComponentMap"
+- "componentsPerVectorMap"
+- "primitiveTypeMap"
+- "filterModeMap"
+- "wrapModeMap"
+- "keyPathMap"
+- "Image"
+- "GLTFCodable"
+- "GLTFPropertyProtocol"
+provides-nominal:
+- "12GLTFSceneKit11GLTFCodableP"
+- "12GLTFSceneKit20GLTFPropertyProtocolP"
+provides-member:
+- ["12GLTFSceneKit11GLTFCodableP", ""]
+- ["12GLTFSceneKit20GLTFPropertyProtocolP", ""]
+- ["12GLTFSceneKit20GLTFPropertyProtocolP", "didLoad"]
+provides-dynamic-lookup:
+depends-top-level:
+- "Bool"
+- "BooleanLiteralType"
+- "CastingPrecedence"
+- "Codable"
+- "FloatLiteralType"
+- "GLTFCodable"
+- "GLTFExtension"
+- "GLTFExtras"
+- "GLTFPropertyProtocol"
+- "GLTFUnarchiver"
+- "GLTF_ARRAY_BUFFER"
+- "GLTF_BYTE"
+- "GLTF_CLAMP_TO_EDGE"
+- "GLTF_ELEMENT_ARRAY_BUFFER"
+- "GLTF_FLOAT"
+- "GLTF_LINEAR"
+- "GLTF_LINEAR_MIPMAP_LINEAR"
+- "GLTF_LINEAR_MIPMAP_NEAREST"
+- "GLTF_LINES"
+- "GLTF_LINE_LOOP"
+- "GLTF_LINE_STRIP"
+- "GLTF_MIRRORED_REPEAT"
+- "GLTF_NEAREST"
+- "GLTF_NEAREST_MIPMAP_LINEAR"
+- "GLTF_NEAREST_MIPMAP_NEAREST"
+- "GLTF_POINTS"
+- "GLTF_REPEAT"
+- "GLTF_SHORT"
+- "GLTF_TRIANGLES"
+- "GLTF_TRIANGLE_FAN"
+- "GLTF_TRIANGLE_STRIP"
+- "GLTF_UNSIGNED_BYTE"
+- "GLTF_UNSIGNED_INT"
+- "GLTF_UNSIGNED_SHORT"
+- "GL_ARRAY_BUFFER"
+- "GL_BYTE"
+- "GL_CLAMP_TO_EDGE"
+- "GL_ELEMENT_ARRAY_BUFFER"
+- "GL_FLOAT"
+- "GL_LINEAR"
+- "GL_LINEAR_MIPMAP_LINEAR"
+- "GL_LINEAR_MIPMAP_NEAREST"
+- "GL_LINES"
+- "GL_LINE_LOOP"
+- "GL_LINE_STRIP"
+- "GL_MIRRORED_REPEAT"
+- "GL_NEAREST"
+- "GL_NEAREST_MIPMAP_LINEAR"
+- "GL_NEAREST_MIPMAP_NEAREST"
+- "GL_POINTS"
+- "GL_REPEAT"
+- "GL_SHORT"
+- "GL_TRIANGLES"
+- "GL_TRIANGLE_FAN"
+- "GL_TRIANGLE_STRIP"
+- "GL_UNSIGNED_BYTE"
+- "GL_UNSIGNED_INT"
+- "GL_UNSIGNED_SHORT"
+- "Image"
+- "Int"
+- "IntegerLiteralType"
+- "NSImage"
+- "SCNFilterMode"
+- "SCNGeometryPrimitiveType"
+- "SCNGeometrySource"
+- "SCNWrapMode"
+- "String"
+- "StringLiteralType"
+- "attributeMap"
+- "bytesPerComponentMap"
+- "componentsPerVectorMap"
+- "filterModeMap"
+- "keyPathMap"
+- "primitiveTypeMap"
+- "usesFloatComponentsMap"
+- "wrapModeMap"
+depends-member:
+- ["s18AdditiveArithmeticP", "init"]
+- ["Sz", "init"]
+- ["s7CVarArgP", "Semantic"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "values"]
+- !private ["Sl", "values"]
+- ["SL", "init"]
+- ["s28CustomDebugStringConvertibleP", "Semantic"]
+- !private ["s28CustomDebugStringConvertibleP", "values"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "values"]
+- ["s23CustomStringConvertibleP", "Semantic"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "values"]
+- !private ["Se", "GLTFCodable"]
+- ["Se", "GLTFExtension"]
+- ["Se", "GLTFExtras"]
+- ["Se", "GLTFUnarchiver"]
+- ["Se", ""]
+- ["Se", "didLoad"]
+- ["Se", "extensions"]
+- ["Se", "extras"]
+- ["Se", "init"]
+- !private ["Se", "values"]
+- !private ["SD", "values"]
+- !private ["SE", "GLTFCodable"]
+- ["SE", "GLTFExtension"]
+- ["SE", "GLTFExtras"]
+- ["SE", "GLTFUnarchiver"]
+- ["SE", ""]
+- ["SE", "didLoad"]
+- ["SE", "extensions"]
+- ["SE", "extras"]
+- ["SE", "init"]
+- !private ["SE", "values"]
+- ["SQ", "Semantic"]
+- ["SQ", "boneIndices"]
+- ["SQ", "boneWeights"]
+- ["SQ", "clamp"]
+- ["SQ", "color"]
+- ["SQ", "init"]
+- ["SQ", "line"]
+- ["SQ", "linear"]
+- ["SQ", "mirror"]
+- ["SQ", "nearest"]
+- ["SQ", "normal"]
+- ["SQ", "point"]
+- ["SQ", "repeat"]
+- ["SQ", "tangent"]
+- ["SQ", "texcoord"]
+- ["SQ", "triangleStrip"]
+- ["SQ", "triangles"]
+- !private ["SQ", "values"]
+- ["SQ", "vertex"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "values"]
+- ["s27ExpressibleByIntegerLiteralP", "init"]
+- ["s17FixedWidthIntegerP", "init"]
+- !private ["12GLTFSceneKit11GLTFCodableP", "GLTFCodable"]
+- ["12GLTFSceneKit11GLTFCodableP", "GLTFExtension"]
+- ["12GLTFSceneKit11GLTFCodableP", "GLTFExtras"]
+- ["12GLTFSceneKit11GLTFCodableP", "GLTFUnarchiver"]
+- ["12GLTFSceneKit11GLTFCodableP", ""]
+- ["12GLTFSceneKit11GLTFCodableP", "didLoad"]
+- ["12GLTFSceneKit11GLTFCodableP", "extensions"]
+- ["12GLTFSceneKit11GLTFCodableP", "extras"]
+- !private ["12GLTFSceneKit13GLTFExtensionV", "extensions"]
+- !private ["12GLTFSceneKit20GLTFPropertyProtocolP", "GLTFCodable"]
+- ["12GLTFSceneKit20GLTFPropertyProtocolP", "GLTFExtension"]
+- ["12GLTFSceneKit20GLTFPropertyProtocolP", "GLTFExtras"]
+- ["12GLTFSceneKit20GLTFPropertyProtocolP", "GLTFUnarchiver"]
+- ["12GLTFSceneKit20GLTFPropertyProtocolP", "didLoad"]
+- ["12GLTFSceneKit20GLTFPropertyProtocolP", "extensions"]
+- ["12GLTFSceneKit20GLTFPropertyProtocolP", "extras"]
+- ["SH", "Semantic"]
+- ["SH", "boneIndices"]
+- ["SH", "boneWeights"]
+- ["SH", "clamp"]
+- ["SH", "color"]
+- ["SH", "init"]
+- ["SH", "line"]
+- ["SH", "linear"]
+- ["SH", "mirror"]
+- ["SH", "nearest"]
+- ["SH", "normal"]
+- ["SH", "point"]
+- ["SH", "repeat"]
+- ["SH", "tangent"]
+- ["SH", "texcoord"]
+- ["SH", "triangleStrip"]
+- ["SH", "triangles"]
+- !private ["SH", "values"]
+- ["SH", "vertex"]
+- ["Si", "init"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["s10MirrorPathP", "init"]
+- ["So8NSCodingP", "Semantic"]
+- ["So8NSObjectC", "Semantic"]
+- ["So8NSObjectP", "Semantic"]
+- ["So14NSSecureCodingP", "Semantic"]
+- ["Sj", "init"]
+- ["SY", "boneIndices"]
+- ["SY", "boneWeights"]
+- ["SY", "clamp"]
+- ["SY", "color"]
+- ["SY", "line"]
+- ["SY", "linear"]
+- ["SY", "mirror"]
+- ["SY", "nearest"]
+- ["SY", "normal"]
+- ["SY", "point"]
+- ["SY", "repeat"]
+- ["SY", "tangent"]
+- ["SY", "texcoord"]
+- ["SY", "triangleStrip"]
+- ["SY", "triangles"]
+- ["SY", "vertex"]
+- ["So13SCNFilterModeV", "linear"]
+- ["So13SCNFilterModeV", "nearest"]
+- ["So24SCNGeometryPrimitiveTypeV", "line"]
+- ["So24SCNGeometryPrimitiveTypeV", "point"]
+- ["So24SCNGeometryPrimitiveTypeV", "triangleStrip"]
+- ["So24SCNGeometryPrimitiveTypeV", "triangles"]
+- ["So17SCNGeometrySourceC", "Semantic"]
+- ["So11SCNWrapModeV", "clamp"]
+- ["So11SCNWrapModeV", "mirror"]
+- ["So11SCNWrapModeV", "repeat"]
+- ["s10SIMDScalarP", "init"]
+- ["So25SCNGeometrySourceSemantica", "boneIndices"]
+- ["So25SCNGeometrySourceSemantica", "boneWeights"]
+- ["So25SCNGeometrySourceSemantica", "color"]
+- ["So25SCNGeometrySourceSemantica", "normal"]
+- ["So25SCNGeometrySourceSemantica", "tangent"]
+- ["So25SCNGeometrySourceSemantica", "texcoord"]
+- ["So25SCNGeometrySourceSemantica", "vertex"]
+- !private ["ST", "values"]
+- ["SZ", "init"]
+- ["s13SignedNumericP", "init"]
+- ["Sx", "init"]
+- ["s30_CustomPlaygroundQuickLookableP", "init"]
+- ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- ["s35_HasCustomAnyHashableRepresentationP", "boneIndices"]
+- ["s35_HasCustomAnyHashableRepresentationP", "boneWeights"]
+- ["s35_HasCustomAnyHashableRepresentationP", "color"]
+- ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- ["s35_HasCustomAnyHashableRepresentationP", "normal"]
+- ["s35_HasCustomAnyHashableRepresentationP", "tangent"]
+- ["s35_HasCustomAnyHashableRepresentationP", "texcoord"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "values"]
+- ["s35_HasCustomAnyHashableRepresentationP", "vertex"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "Semantic"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "Semantic"]
+- ["s21_ObjectiveCBridgeableP", "boneIndices"]
+- ["s21_ObjectiveCBridgeableP", "boneWeights"]
+- ["s21_ObjectiveCBridgeableP", "color"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- ["s21_ObjectiveCBridgeableP", "normal"]
+- ["s21_ObjectiveCBridgeableP", "tangent"]
+- ["s21_ObjectiveCBridgeableP", "texcoord"]
+- !private ["s21_ObjectiveCBridgeableP", "values"]
+- ["s21_ObjectiveCBridgeableP", "vertex"]
+- ["s20_SwiftNewtypeWrapperP", "boneIndices"]
+- ["s20_SwiftNewtypeWrapperP", "boneWeights"]
+- ["s20_SwiftNewtypeWrapperP", "color"]
+- ["s20_SwiftNewtypeWrapperP", "normal"]
+- ["s20_SwiftNewtypeWrapperP", "tangent"]
+- ["s20_SwiftNewtypeWrapperP", "texcoord"]
+- ["s20_SwiftNewtypeWrapperP", "vertex"]
+depends-nominal:
+- "s18AdditiveArithmeticP"
+- "Sz"
+- "s7CVarArgP"
+- !private "Sl"
+- "SL"
+- "s28CustomDebugStringConvertibleP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "Se"
+- !private "SD"
+- "SE"
+- "SQ"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- "s27ExpressibleByIntegerLiteralP"
+- "s17FixedWidthIntegerP"
+- "12GLTFSceneKit11GLTFCodableP"
+- !private "12GLTFSceneKit13GLTFExtensionV"
+- "12GLTFSceneKit20GLTFPropertyProtocolP"
+- "SH"
+- "Si"
+- "s25LosslessStringConvertibleP"
+- "s10MirrorPathP"
+- "So8NSCodingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "So14NSSecureCodingP"
+- "Sj"
+- "SY"
+- "So13SCNFilterModeV"
+- "So24SCNGeometryPrimitiveTypeV"
+- "So17SCNGeometrySourceC"
+- "So11SCNWrapModeV"
+- "s10SIMDScalarP"
+- "So25SCNGeometrySourceSemantica"
+- !private "ST"
+- "SZ"
+- "s13SignedNumericP"
+- "Sx"
+- "s30_CustomPlaygroundQuickLookableP"
+- "s35_ExpressibleByBuiltinIntegerLiteralP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- "s21_ObjectiveCBridgeableP"
+- "s20_SwiftNewtypeWrapperP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/XPC.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/ObjectiveC.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/ModelIO.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/CoreData.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/simd.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/CoreImage.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/QuartzCore.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/Dispatch.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/Metal.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/Darwin.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/Foundation.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/CoreFoundation.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/CoreGraphics.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/Swift.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/GLKit.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/IOKit.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/SceneKit.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/SpriteKit.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/AppKit.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/SwiftOnoneSupport.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Combine.framework/Modules/Combine.swiftmodule/x86_64-apple-macos.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/XPC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/ModelIO.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreData.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/simd.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreImage.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Combine.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/QuartzCore.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Metal.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Swift.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/GLKit.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/IOKit.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/SceneKit.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/SpriteKit.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/AppKit.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/xpc/XPC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/ModelIO.framework/Headers/ModelIO.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/ApplicationServices.framework/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/GLKit.framework/Headers/GLKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/SceneKit.framework/Headers/SceneKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/SpriteKit.framework/Headers/SpriteKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "a8f76df971ef8c2242b90b47609cc8d6"

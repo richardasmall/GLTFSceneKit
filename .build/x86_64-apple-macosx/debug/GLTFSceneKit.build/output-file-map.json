@@ -1,0 +1,257 @@
+{
+  "": {
+    "swift-dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/master.swiftdeps"
+  },
+  "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/Sources/GLTFSceneKit/Common/GLTFErrors.swift": {
+    "dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/GLTFErrors.d",
+    "object": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/GLTFErrors.swift.o",
+    "swiftmodule": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/GLTFErrors~partial.swiftmodule",
+    "swift-dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/GLTFErrors.swiftdeps"
+  },
+  "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/Sources/GLTFSceneKit/Common/GLTFFunctions.swift": {
+    "dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/GLTFFunctions.d",
+    "object": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/GLTFFunctions.swift.o",
+    "swiftmodule": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/GLTFFunctions~partial.swiftmodule",
+    "swift-dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/GLTFFunctions.swiftdeps"
+  },
+  "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/Sources/GLTFSceneKit/Common/GLTFSceneSource.swift": {
+    "dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/GLTFSceneSource.d",
+    "object": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/GLTFSceneSource.swift.o",
+    "swiftmodule": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/GLTFSceneSource~partial.swiftmodule",
+    "swift-dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/GLTFSceneSource.swiftdeps"
+  },
+  "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/Sources/GLTFSceneKit/Common/GLTFTypes.swift": {
+    "dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/GLTFTypes.d",
+    "object": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/GLTFTypes.swift.o",
+    "swiftmodule": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/GLTFTypes~partial.swiftmodule",
+    "swift-dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/GLTFTypes.swiftdeps"
+  },
+  "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/Sources/GLTFSceneKit/Common/GLTFUnarchiver.swift": {
+    "dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/GLTFUnarchiver.d",
+    "object": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/GLTFUnarchiver.swift.o",
+    "swiftmodule": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/GLTFUnarchiver~partial.swiftmodule",
+    "swift-dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/GLTFUnarchiver.swiftdeps"
+  },
+  "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/Sources/GLTFSceneKit/Common/schema/GLTFAccessor.swift": {
+    "dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFAccessor.d",
+    "object": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFAccessor.swift.o",
+    "swiftmodule": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFAccessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFAccessor.swiftdeps"
+  },
+  "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/Sources/GLTFSceneKit/Common/schema/GLTFAccessorSparse.swift": {
+    "dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFAccessorSparse.d",
+    "object": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFAccessorSparse.swift.o",
+    "swiftmodule": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFAccessorSparse~partial.swiftmodule",
+    "swift-dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFAccessorSparse.swiftdeps"
+  },
+  "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/Sources/GLTFSceneKit/Common/schema/GLTFAccessorSparseIndices.swift": {
+    "dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFAccessorSparseIndices.d",
+    "object": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFAccessorSparseIndices.swift.o",
+    "swiftmodule": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFAccessorSparseIndices~partial.swiftmodule",
+    "swift-dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFAccessorSparseIndices.swiftdeps"
+  },
+  "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/Sources/GLTFSceneKit/Common/schema/GLTFAccessorSparseValues.swift": {
+    "dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFAccessorSparseValues.d",
+    "object": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFAccessorSparseValues.swift.o",
+    "swiftmodule": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFAccessorSparseValues~partial.swiftmodule",
+    "swift-dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFAccessorSparseValues.swiftdeps"
+  },
+  "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/Sources/GLTFSceneKit/Common/schema/GLTFAnimation.swift": {
+    "dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFAnimation.d",
+    "object": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFAnimation.swift.o",
+    "swiftmodule": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFAnimation~partial.swiftmodule",
+    "swift-dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFAnimation.swiftdeps"
+  },
+  "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/Sources/GLTFSceneKit/Common/schema/GLTFAnimationChannel.swift": {
+    "dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFAnimationChannel.d",
+    "object": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFAnimationChannel.swift.o",
+    "swiftmodule": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFAnimationChannel~partial.swiftmodule",
+    "swift-dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFAnimationChannel.swiftdeps"
+  },
+  "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/Sources/GLTFSceneKit/Common/schema/GLTFAnimationChannelTarget.swift": {
+    "dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFAnimationChannelTarget.d",
+    "object": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFAnimationChannelTarget.swift.o",
+    "swiftmodule": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFAnimationChannelTarget~partial.swiftmodule",
+    "swift-dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFAnimationChannelTarget.swiftdeps"
+  },
+  "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/Sources/GLTFSceneKit/Common/schema/GLTFAnimationSampler.swift": {
+    "dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFAnimationSampler.d",
+    "object": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFAnimationSampler.swift.o",
+    "swiftmodule": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFAnimationSampler~partial.swiftmodule",
+    "swift-dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFAnimationSampler.swiftdeps"
+  },
+  "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/Sources/GLTFSceneKit/Common/schema/GLTFAsset.swift": {
+    "dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFAsset.d",
+    "object": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFAsset.swift.o",
+    "swiftmodule": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFAsset~partial.swiftmodule",
+    "swift-dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFAsset.swiftdeps"
+  },
+  "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/Sources/GLTFSceneKit/Common/schema/GLTFBuffer.swift": {
+    "dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFBuffer.d",
+    "object": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFBuffer.swift.o",
+    "swiftmodule": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFBuffer~partial.swiftmodule",
+    "swift-dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFBuffer.swiftdeps"
+  },
+  "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/Sources/GLTFSceneKit/Common/schema/GLTFBufferView.swift": {
+    "dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFBufferView.d",
+    "object": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFBufferView.swift.o",
+    "swiftmodule": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFBufferView~partial.swiftmodule",
+    "swift-dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFBufferView.swiftdeps"
+  },
+  "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/Sources/GLTFSceneKit/Common/schema/GLTFCamera.swift": {
+    "dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFCamera.d",
+    "object": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFCamera.swift.o",
+    "swiftmodule": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFCamera~partial.swiftmodule",
+    "swift-dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFCamera.swiftdeps"
+  },
+  "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/Sources/GLTFSceneKit/Common/schema/GLTFCameraOrthographic.swift": {
+    "dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFCameraOrthographic.d",
+    "object": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFCameraOrthographic.swift.o",
+    "swiftmodule": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFCameraOrthographic~partial.swiftmodule",
+    "swift-dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFCameraOrthographic.swiftdeps"
+  },
+  "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/Sources/GLTFSceneKit/Common/schema/GLTFCameraPerspective.swift": {
+    "dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFCameraPerspective.d",
+    "object": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFCameraPerspective.swift.o",
+    "swiftmodule": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFCameraPerspective~partial.swiftmodule",
+    "swift-dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFCameraPerspective.swiftdeps"
+  },
+  "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/Sources/GLTFSceneKit/Common/schema/GLTFExtension.swift": {
+    "dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFExtension.d",
+    "object": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFExtension.swift.o",
+    "swiftmodule": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFExtension~partial.swiftmodule",
+    "swift-dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFExtension.swiftdeps"
+  },
+  "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/Sources/GLTFSceneKit/Common/schema/GLTFExtras.swift": {
+    "dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFExtras.d",
+    "object": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFExtras.swift.o",
+    "swiftmodule": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFExtras~partial.swiftmodule",
+    "swift-dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFExtras.swiftdeps"
+  },
+  "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/Sources/GLTFSceneKit/Common/schema/GLTFGlTF.swift": {
+    "dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFGlTF.d",
+    "object": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFGlTF.swift.o",
+    "swiftmodule": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFGlTF~partial.swiftmodule",
+    "swift-dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFGlTF.swiftdeps"
+  },
+  "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/Sources/GLTFSceneKit/Common/schema/GLTFGlTFChildOfRootProperty.swift": {
+    "dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFGlTFChildOfRootProperty.d",
+    "object": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFGlTFChildOfRootProperty.swift.o",
+    "swiftmodule": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFGlTFChildOfRootProperty~partial.swiftmodule",
+    "swift-dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFGlTFChildOfRootProperty.swiftdeps"
+  },
+  "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/Sources/GLTFSceneKit/Common/schema/GLTFGlTFProperty.swift": {
+    "dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFGlTFProperty.d",
+    "object": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFGlTFProperty.swift.o",
+    "swiftmodule": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFGlTFProperty~partial.swiftmodule",
+    "swift-dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFGlTFProperty.swiftdeps"
+  },
+  "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/Sources/GLTFSceneKit/Common/schema/GLTFGlTFid.swift": {
+    "dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFGlTFid.d",
+    "object": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFGlTFid.swift.o",
+    "swiftmodule": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFGlTFid~partial.swiftmodule",
+    "swift-dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFGlTFid.swiftdeps"
+  },
+  "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/Sources/GLTFSceneKit/Common/schema/GLTFImage.swift": {
+    "dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFImage.d",
+    "object": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFImage.swift.o",
+    "swiftmodule": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFImage~partial.swiftmodule",
+    "swift-dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFImage.swiftdeps"
+  },
+  "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/Sources/GLTFSceneKit/Common/schema/GLTFMaterial.swift": {
+    "dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFMaterial.d",
+    "object": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFMaterial.swift.o",
+    "swiftmodule": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFMaterial~partial.swiftmodule",
+    "swift-dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFMaterial.swiftdeps"
+  },
+  "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/Sources/GLTFSceneKit/Common/schema/GLTFMaterialNormalTextureInfo.swift": {
+    "dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFMaterialNormalTextureInfo.d",
+    "object": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFMaterialNormalTextureInfo.swift.o",
+    "swiftmodule": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFMaterialNormalTextureInfo~partial.swiftmodule",
+    "swift-dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFMaterialNormalTextureInfo.swiftdeps"
+  },
+  "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/Sources/GLTFSceneKit/Common/schema/GLTFMaterialOcclusionTextureInfo.swift": {
+    "dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFMaterialOcclusionTextureInfo.d",
+    "object": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFMaterialOcclusionTextureInfo.swift.o",
+    "swiftmodule": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFMaterialOcclusionTextureInfo~partial.swiftmodule",
+    "swift-dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFMaterialOcclusionTextureInfo.swiftdeps"
+  },
+  "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/Sources/GLTFSceneKit/Common/schema/GLTFMaterialPbrMetallicRoughness.swift": {
+    "dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFMaterialPbrMetallicRoughness.d",
+    "object": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFMaterialPbrMetallicRoughness.swift.o",
+    "swiftmodule": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFMaterialPbrMetallicRoughness~partial.swiftmodule",
+    "swift-dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFMaterialPbrMetallicRoughness.swiftdeps"
+  },
+  "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/Sources/GLTFSceneKit/Common/schema/GLTFMesh.swift": {
+    "dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFMesh.d",
+    "object": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFMesh.swift.o",
+    "swiftmodule": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFMesh~partial.swiftmodule",
+    "swift-dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFMesh.swiftdeps"
+  },
+  "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/Sources/GLTFSceneKit/Common/schema/GLTFMeshPrimitive.swift": {
+    "dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFMeshPrimitive.d",
+    "object": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFMeshPrimitive.swift.o",
+    "swiftmodule": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFMeshPrimitive~partial.swiftmodule",
+    "swift-dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFMeshPrimitive.swiftdeps"
+  },
+  "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/Sources/GLTFSceneKit/Common/schema/GLTFNode.swift": {
+    "dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFNode.d",
+    "object": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFNode.swift.o",
+    "swiftmodule": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFNode~partial.swiftmodule",
+    "swift-dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFNode.swiftdeps"
+  },
+  "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/Sources/GLTFSceneKit/Common/schema/GLTFSampler.swift": {
+    "dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFSampler.d",
+    "object": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFSampler.swift.o",
+    "swiftmodule": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFSampler~partial.swiftmodule",
+    "swift-dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFSampler.swiftdeps"
+  },
+  "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/Sources/GLTFSceneKit/Common/schema/GLTFScene.swift": {
+    "dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFScene.d",
+    "object": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFScene.swift.o",
+    "swiftmodule": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFScene~partial.swiftmodule",
+    "swift-dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFScene.swiftdeps"
+  },
+  "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/Sources/GLTFSceneKit/Common/schema/GLTFSkin.swift": {
+    "dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFSkin.d",
+    "object": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFSkin.swift.o",
+    "swiftmodule": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFSkin~partial.swiftmodule",
+    "swift-dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFSkin.swiftdeps"
+  },
+  "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/Sources/GLTFSceneKit/Common/schema/GLTFTexture.swift": {
+    "dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFTexture.d",
+    "object": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFTexture.swift.o",
+    "swiftmodule": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFTexture~partial.swiftmodule",
+    "swift-dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFTexture.swiftdeps"
+  },
+  "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/Sources/GLTFSceneKit/Common/schema/GLTFTextureInfo.swift": {
+    "dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFTextureInfo.d",
+    "object": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFTextureInfo.swift.o",
+    "swiftmodule": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFTextureInfo~partial.swiftmodule",
+    "swift-dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/GLTFTextureInfo.swiftdeps"
+  },
+  "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/Sources/GLTFSceneKit/Common/schema/extensions/ExtensionList.swift": {
+    "dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/extensions/ExtensionList.d",
+    "object": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/extensions/ExtensionList.swift.o",
+    "swiftmodule": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/extensions/ExtensionList~partial.swiftmodule",
+    "swift-dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/extensions/ExtensionList.swiftdeps"
+  },
+  "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/Sources/GLTFSceneKit/Common/schema/extensions/KHR_materials_common/GLTFKHRMaterialsCommon_GLTFKHRMaterialsCommon.swift": {
+    "dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/extensions/KHR_materials_common/GLTFKHRMaterialsCommon_GLTFKHRMaterialsCommon.d",
+    "object": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/extensions/KHR_materials_common/GLTFKHRMaterialsCommon_GLTFKHRMaterialsCommon.swift.o",
+    "swiftmodule": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/extensions/KHR_materials_common/GLTFKHRMaterialsCommon_GLTFKHRMaterialsCommon~partial.swiftmodule",
+    "swift-dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/extensions/KHR_materials_common/GLTFKHRMaterialsCommon_GLTFKHRMaterialsCommon.swiftdeps"
+  },
+  "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/Sources/GLTFSceneKit/Common/schema/extensions/KHR_materials_pbrSpecularGlossiness/GLTFKHRMaterialsPbrSpecularGlossiness_GLTFKHRMaterialsPbrSpecularGlossiness.swift": {
+    "dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/extensions/KHR_materials_pbrSpecularGlossiness/GLTFKHRMaterialsPbrSpecularGlossiness_GLTFKHRMaterialsPbrSpecularGlossiness.d",
+    "object": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/extensions/KHR_materials_pbrSpecularGlossiness/GLTFKHRMaterialsPbrSpecularGlossiness_GLTFKHRMaterialsPbrSpecularGlossiness.swift.o",
+    "swiftmodule": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/extensions/KHR_materials_pbrSpecularGlossiness/GLTFKHRMaterialsPbrSpecularGlossiness_GLTFKHRMaterialsPbrSpecularGlossiness~partial.swiftmodule",
+    "swift-dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/Common/schema/extensions/KHR_materials_pbrSpecularGlossiness/GLTFKHRMaterialsPbrSpecularGlossiness_GLTFKHRMaterialsPbrSpecularGlossiness.swiftdeps"
+  },
+  "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/Sources/GLTFSceneKit/GLTFSceneKit.swift": {
+    "dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/GLTFSceneKit.d",
+    "object": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/GLTFSceneKit.swift.o",
+    "swiftmodule": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/GLTFSceneKit~partial.swiftmodule",
+    "swift-dependencies": "/Users/richardasmall/Developer/Carto/AuthoringEngine/Submodules/GLTFSceneKit/.build/x86_64-apple-macosx/debug/GLTFSceneKit.build/GLTFSceneKit.swiftdeps"
+  }
+}
