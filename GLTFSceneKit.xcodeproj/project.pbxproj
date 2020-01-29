@@ -1000,6 +1000,7 @@
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @loader_path/Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 10.12;
+				OTHER_LDFLAGS = "-fprofile-instr-generate";
 				PRODUCT_BUNDLE_IDENTIFIER = jp.0spec.GLTFSceneKit;
 				PRODUCT_NAME = GLTFSceneKit;
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -1025,6 +1026,7 @@
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @loader_path/Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 10.12;
+				OTHER_LDFLAGS = "-fprofile-instr-generate";
 				PRODUCT_BUNDLE_IDENTIFIER = jp.0spec.GLTFSceneKit;
 				PRODUCT_NAME = GLTFSceneKit;
 				PROVISIONING_PROFILE_SPECIFIER = "";
