@@ -8,19 +8,14 @@
 
 #pragma arguments
 
-float baseColorFactorR;
-float baseColorFactorG;
-float baseColorFactorB;
-float baseColorFactorA;
+float4 baseColorFactor;
 float metallicFactor;
 float roughnessFactor;
-float emissiveFactorR;
-float emissiveFactorG;
-float emissiveFactorB;
+float3 emissiveFactor;
 
 #pragma body
 
-_surface.diffuse *= float4(baseColorFactorR, baseColorFactorG, baseColorFactorB, baseColorFactorA);
+_surface.diffuse *= baseColorFactor;
 _surface.metalness *= metallicFactor;
 _surface.roughness *= roughnessFactor;
-_surface.emission.rgb *= float3(emissiveFactorR, emissiveFactorG, emissiveFactorB);
+_surface.emission.rgb *= emissiveFactor;
